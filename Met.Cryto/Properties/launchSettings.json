@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Met.Cryto": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
