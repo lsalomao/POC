@@ -19,7 +19,6 @@ sw.Stop();
 Console.WriteLine("Tempo gasto : " + sw.ElapsedMilliseconds.ToString() + " milisegundos");
 
 
-
 static int ReadInt(string prompt)
 {
     string text;
